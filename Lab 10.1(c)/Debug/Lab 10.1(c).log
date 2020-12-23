@@ -1,0 +1,5 @@
+﻿  Lab 10.1(c).cpp
+W:\Labs AP\Lab 10.1(c)\Lab 10.1(c)\Lab 10.1(c).cpp(19,7): warning C4101: ch: неиспользованная локальная переменная
+W:\Labs AP\Lab 10.1(c)\Lab 10.1(c)\Lab 10.1(c).cpp(18,8): warning C4101: t: неиспользованная локальная переменная
+W:\Labs AP\Lab 10.1(c)\Lab 10.1(c)\Lab 10.1(c).cpp(20,7): warning C4101: str: неиспользованная локальная переменная
+  Lab 10.1(c).vcxproj -> W:\Labs AP\Lab 10.1(c)\Debug\Lab 10.1(c).exe
